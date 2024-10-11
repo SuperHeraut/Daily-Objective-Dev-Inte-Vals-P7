@@ -1,1 +1,1 @@
-# Daily-Objective-Dev-Inte-Vals-P7
+# Daily Objective Dev Inte Vals P7
