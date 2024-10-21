@@ -7,7 +7,7 @@ Benjamin
 ### Git
 
 - [x] Comprendre le principe de "Pull Request"
-- [ ] Comprendre le rebase dans Git (quelle différence avec le merge ?)
+- [x] Comprendre le rebase dans Git (quelle différence avec le merge ?)
 - [ ] Comprendre l'utilité et le fonctionnement de `git stash`
 - [ ] Créer un cheat sheet sur Git (en groupe en respectant les bests practices et Gitflow)
 - [ ] `.gitignore` global ou pas ?
