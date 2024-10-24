@@ -11,4 +11,4 @@ Benjamin
 
 ---
 
-- [ ] Positionnement avec Grid (CSS Garden)
+- [x] Positionnement avec Grid (CSS Garden)
