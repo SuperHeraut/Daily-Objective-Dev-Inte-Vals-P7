@@ -16,6 +16,6 @@ Benjamin
 - [ ] Configurer son git :
   - [X] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
   - [ ] Différenciateur (par ex : Delta)
-  - [ ] Comprendre les Alias
+  - [X] Comprendre les Alias
   - [ ] Comprendre la différence entre config locale, globale et système
-- [ ] Choix workflow : Faites vos alias
+- [X] Choix workflow : Faites vos alias
