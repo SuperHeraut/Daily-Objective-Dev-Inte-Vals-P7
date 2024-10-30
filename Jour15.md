@@ -4,7 +4,7 @@ Benjamin
 
 ## Jour 15 (Mercredi 30 Octobre 2024) :
 
-- [ ] Suite Brief Squedrong
+- [X] Suite Brief Squedrong
 
 ### Sass
 
